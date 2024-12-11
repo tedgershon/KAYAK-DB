@@ -1,0 +1,12 @@
+review_id,rating,comment,airline_id,traveler_id
+1,4,"""Good service""",1,1
+2,5,"""Amazing experience""",1,2
+3,5,"""Incredible staff""",1,3
+4,5,"""Amazing food""",2,4
+5,3,"""Rude staff""",2,1
+6,3,"""Decent customer service""",3,2
+7,1,"""Don't recommend""",3,3
+8,4,"""Friendly staff""",3,4
+9,4,"""Overall nice experience""",4,5
+10,5,"""Had a great time!""",4,1
+11,5,"""Good first experience""",5,2

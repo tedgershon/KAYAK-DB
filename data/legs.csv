@@ -1,0 +1,39 @@
+search_id,from_location,to_location,departure_date,class
+1,PIT,NYC,11/19/2024,Economy
+2,NYC,PIT,11/22/2024,Economy
+3,PIT,LAS,11/19/2024,First
+4,LAS,PIT,11/20/2024,Economy
+5,PIT,SFO,11/19/2024,Economy
+6,PIT,DCA,11/19/2024,Business
+7,DCA,PIT,11/21/2024,Business
+8,PIT,SJC,11/20/2024,Economy
+9,SJC,PIT,11/27/2024,Economy
+10,PIT,LAX,11/20/2024,Economy
+11,LAX,PIT,11/27/2024,Economy
+12,PIT,ATL,11/20/2024,Business
+13,ATL,PIT,11/24/2024,Business
+14,PIT,STP,11/20/2024,Economy
+15,STP,PIT,11/25/2024,Economy
+16,SJC,LAX,11/20/2024,Economy
+17,MSP,MCO,11/21/2024,First
+18,PIT,NYC,11/21/2024,Premium Economy
+19,NYC,ATL,11/23/2024,Premium Economy
+20,ATL,DEN,11/24/2024,Premium Economy
+21,DEN,PIT,11/26/2024,Premium Economy
+22,LAS,DCA,11/21/2024,Economy
+23,DCA,LAS,11/23/2024,Economy
+24,MCO,DEN,11/21/2024,First
+25,DEN,MCO,11/24/2024,Business
+26,NYC,MSP,11/22/2024,Business
+27,MSP,NYC,11/25/2024,Premium Economy
+28,LGA,PIT,11/22/2024,Premium Economy
+29,PIT,LGA,11/23/2024,Economy
+30,MSP,LGA,11/22/2024,Economy
+31,LGA,MSP,11/26/2024,First
+32,LAS,NYC,11/22/2024,Economy
+33,NYC,LAS,11/25/2024,Economy
+34,STP,ATL,11/23/2024,Business
+35,ATL,STP,11/27/2024,Business
+36,PIT,LAX,11/23/2024,Economy
+37,LAX,PIT,11/28/2024,Economy
+38,SFO,DEN,11/23/2024,Premium Economy
